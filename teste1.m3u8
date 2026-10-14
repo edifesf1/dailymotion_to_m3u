@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Português",LANGUAGE="pt",DEFAULT=YES,AUTOSELECT=YES,URI="https://vod3.cf.dmcdn.net/sec2(bY3Fnldl6-RFH6FIG9Wllo00iI0GdofCLN1YO9Rx-ceuHSJHFc93mu0IonQ7VRHCyvGFyD2dDJJs6xnUKhf9fc2FKliicNRcrG8RO8rQAUh5hYNbt7fhZvByDwfWGd8oRqVKee8zPuOhOn1tS8eT8Zxq-fZS_vdvVWKTHalSXi31vYcv6yehdYXcVs3SjgIBBi4iAA51FfNmghokP9TpTw)/video/fmp4/678182918/aac_q1_0/3/manifest.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="audio"
+https://vod3.cf.dmcdn.net/sec2(kEAE0e7SrGwMVC97cmZZVXX9AhcReee_2lqb7Rx_v7W0fhPPjGvmsUlcqpdxJ-NYgbRfA6hJxKQjdds85V36gpkSxtYms5b7PMmYsg4lenqmX1eDL5bGu4FvDMymrwlNl-1INwF4x7D_7wMtmVefJMzwmhCM_qB83cukcdpjG1ofCyqXAOAtXq8RDNvTIAokkTeNcuERxlygWiY1_2B_IA)/video/fmp4/678182918/h264_sd/3/manifest.m3u8
